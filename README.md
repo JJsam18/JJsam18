@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerricksam
+- 👋 Hi, I’m @Jerrick_sam
 - 👀 I’m interested in creating simple web and games
 - 🌱 I’m currently learning in FEURoosevelt university
 - 💞️ I’m looking to collaborate on ...
